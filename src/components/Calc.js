@@ -7,9 +7,6 @@ import { useState } from "react";
 function Calculator() {
 
     const [num, setNum] = useState(0);
-    const [oldNum, setOldNum] = useState(0);
-    const [operator, setOperator] = useState();
-    let i = 0;
 
     function inputNum(e){
         let input = e.target.value;
