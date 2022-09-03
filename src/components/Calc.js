@@ -41,9 +41,9 @@ function Calculator() {
         setNum(num + n1) 
     }
 
-    function test(){
-        var t1 = (eval(num))
-        setNum(t1)
+    function result(){
+        var aux = (eval(num))
+        setNum(aux)
 
     }
 
@@ -74,7 +74,7 @@ function Calculator() {
                     <button onClick={inputNum} value={0}>0</button>
                     <button onClick={inputNum} value={"."}>.</button>
                     <button onClick={Calc} value={"+"}>+</button>
-                    <button onClick={test}>=</button>
+                    <button onClick={result}>=</button>
                 </div>
 
             </Container>
