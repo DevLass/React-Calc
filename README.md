@@ -1,13 +1,13 @@
 <h1 align="center"> Hey there, i'm Nich, and this is my Calculator with React</h1>
  
 <p align="center">
-  <img src="https://github.com/italicnich/React-Calc/blob/master/readmeimg/img-gif.gif" alt="Page Preview">
+  <img src="https://github.com/DevLass/React-Calc/blob/master/readmeimg/img-gif.gif" alt="Page Preview">
 </p>
 
 <h3 align="justify"> <i> Hey there, this is maybe a new version of my older project, four months ago I was starting in web development and I made a calculator and now I redid it with react js. The funny thing is that the main logic remained the same: </i> </h3>
 
 <p align="center">
-  <img src="https://github.com/italicnich/React-Calc/blob/master/readmeimg/code.png" alt="Code" width="300">
+  <img src="https://github.com/DevLass/React-Calc/blob/master/readmeimg/code.png" alt="Code" width="300">
 </p>
 
 <h3 align="justify"> <i> There are six very basic functions: the first changes the display value, the second resets the display value, the third takes the percentage, the fourth changes the signs, the fifth adds all the input elements, and the sixth performs the count with this string, using a javascript method. <br><br> Another interesting point is the use of two components of the <a href="https://mui.com/pt/">MUI</a> library, the "container" and the "box" both help, making the development faster. </i> </h3>
